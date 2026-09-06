@@ -7,6 +7,7 @@ Personal writeups documenting how I solved PICO CTF challenges. Each writeup foc
 | Challenge | Category | Difficulty | Status | Writeup |
 | --- | --- | --- | --- | --- |
 | Mod 26 | Cryptography | Easy | Solved | [Writeup](cryptography/01-cryptographyeasy.md) |
+| Lets Warm Up | General Skills | Easy | Solved | [Writeup](general-skills/01-lets-warm-up.md) |
 | Warmed Up | General Skills | Easy | Solved | [Writeup](general-skills/02-warmed-up.md) |
 | 2Warm | General Skills | Easy | Solved | [Writeup](general-skills/03-2warm.md) |
 | Bases | General Skills | Easy | Solved | [Writeup](general-skills/04-bases.md) |
@@ -26,6 +27,12 @@ Personal writeups documenting how I solved PICO CTF challenges. Each writeup foc
 | Big Zip | General Skills | Easy | Solved | [Writeup](general-skills/18-big-zip.md) |
 | vault-door-training | Reverse Engineering | Easy | Solved | [Writeup](reverse-engineering/19-vault-door-training.md) |
 | keygenme-py | Reverse Engineering | Medium | Unsolved | [Writeup](reverse-engineering/20-keygenme-py.md) |
+| convertme.py | General Skills | Easy | Solved | [Writeup](general-skills/21-convertme-py.md) |
+| Nice netcat... | General Skills | Easy | Solved | [Writeup](general-skills/22-nice-netcat.md) |
+| Magikarp Ground Mission | General Skills | Easy | Solved | [Writeup](general-skills/23-magikarp-ground-mission.md) |
+| First Find | General Skills | Easy | Solved | [Writeup](general-skills/24-first-find.md) |
+| Static ain't always noise | General Skills | Easy | Solved | [Writeup](general-skills/25-static-aint-always-noise.md) |
+| plumbing | General Skills | Medium | Solved | [Writeup](general-skills/26-plumbing.md) |
 
 ## Writeup Format
 
