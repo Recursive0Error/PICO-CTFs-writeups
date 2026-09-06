@@ -13,6 +13,15 @@ Personal writeups documenting how I solved PICO CTF challenges. Each writeup foc
 | Wave a flag | General Skills | Easy | Solved | [Writeup](general-skills/05-wave-a-flag.md) |
 | Tab, Tab, Attack | General Skills | Easy | Solved | [Writeup](general-skills/06-tab-tab-attack.md) |
 | Insp3ct0r | Web Exploitation | Easy | Solved | [Writeup](web-exploitation/07-insp3ct0r.md) |
+| Strings It | General Skills | Easy | Solved | [Writeup](general-skills/08-strings-it.md) |
+| First Grep | General Skills | Easy | Solved | [Writeup](general-skills/09-first-grep.md) |
+| Where Are the Robots | Web Exploitation | Easy | Solved | [Writeup](web-exploitation/10-where-are-the-robots.md) |
+| Python Wrangling | General Skills | Medium | Solved | [Writeup](general-skills/11-python-wrangling.md) |
+| PW Crack 1 | General Skills | Easy | Solved | [Writeup](general-skills/12-pw-crack-1.md) |
+| PW Crack 2 | General Skills | Easy | Solved | [Writeup](general-skills/13-pw-crack-2.md) |
+| PW Crack 3 | General Skills | Medium | Solved | [Writeup](general-skills/14-pw-crack-3.md) |
+| PW Crack 4 | General Skills | Medium | Solved | [Writeup](general-skills/15-pw-crack-4.md) |
+| PW Crack 5 | General Skills | Medium | Solved | [Writeup](general-skills/16-pw-crack-5.md) |
 
 ## Writeup Format
 
