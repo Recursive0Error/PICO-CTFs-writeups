@@ -22,6 +22,10 @@ Personal writeups documenting how I solved PICO CTF challenges. Each writeup foc
 | PW Crack 3 | General Skills | Medium | Solved | [Writeup](general-skills/14-pw-crack-3.md) |
 | PW Crack 4 | General Skills | Medium | Solved | [Writeup](general-skills/15-pw-crack-4.md) |
 | PW Crack 5 | General Skills | Medium | Solved | [Writeup](general-skills/16-pw-crack-5.md) |
+| Enhance! | Forensics | Medium | Solved | [Writeup](forensics/17-enhance.md) |
+| Big Zip | General Skills | Easy | Solved | [Writeup](general-skills/18-big-zip.md) |
+| vault-door-training | Reverse Engineering | Easy | Solved | [Writeup](reverse-engineering/19-vault-door-training.md) |
+| keygenme-py | Reverse Engineering | Medium | Unsolved | [Writeup](reverse-engineering/20-keygenme-py.md) |
 
 ## Writeup Format
 
