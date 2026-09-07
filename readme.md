@@ -33,6 +33,8 @@ Personal writeups documenting how I solved PICO CTF challenges. Each writeup foc
 | First Find | General Skills | Easy | Solved | [Writeup](general-skills/24-first-find.md) |
 | Static ain't always noise | General Skills | Easy | Solved | [Writeup](general-skills/25-static-aint-always-noise.md) |
 | plumbing | General Skills | Medium | Solved | [Writeup](general-skills/26-plumbing.md) |
+| Old Sessions | Web Exploitation | Easy | Solved | [Writeup](web-exploitation/27-old-sessions.md) |
+| Crack the Gate 1 | Web Exploitation | Easy | Solved | [Writeup](web-exploitation/28-crack-the-gate-1.md) |
 
 ## Writeup Format
 
