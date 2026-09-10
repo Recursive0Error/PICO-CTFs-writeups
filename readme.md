@@ -37,6 +37,7 @@ Personal writeups documenting how I solved PICO CTF challenges. Each writeup foc
 | Crack the Gate 1 | Web Exploitation | Easy | Solved | [Writeup](web-exploitation/28-crack-the-gate-1.md) |
 | Information | Forensics | Easy | Solved | [Writeup](forensics/29-information.md) |
 | Glory of the Garden | Forensics | Easy | Solved | [Writeup](forensics/30-glory-of-the-garden.md) |
+| Disk, disk, sleuth! II | Forensics | Medium | Solved | [Writeup](forensics/33-disk-disk-sleuth-2.md) |
 
 ## Writeup Format
 
