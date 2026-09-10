@@ -35,6 +35,8 @@ Personal writeups documenting how I solved PICO CTF challenges. Each writeup foc
 | plumbing | General Skills | Medium | Solved | [Writeup](general-skills/26-plumbing.md) |
 | Old Sessions | Web Exploitation | Easy | Solved | [Writeup](web-exploitation/27-old-sessions.md) |
 | Crack the Gate 1 | Web Exploitation | Easy | Solved | [Writeup](web-exploitation/28-crack-the-gate-1.md) |
+| Information | Forensics | Easy | Solved | [Writeup](forensics/29-information.md) |
+| Glory of the Garden | Forensics | Easy | Solved | [Writeup](forensics/30-glory-of-the-garden.md) |
 
 ## Writeup Format
 
